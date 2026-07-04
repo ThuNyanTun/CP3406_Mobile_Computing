@@ -1,9 +1,6 @@
 # CP3406_Mobile_Computing
 # Game Player Glance
 
-A utility-style Android app (CP3406 Assessment 1) that shows **live current
-player counts** for a handful of popular Steam games, at a glance.
-
 ## Core features
 
 - **Glance screen (main screen):** a list of your selected games, each
